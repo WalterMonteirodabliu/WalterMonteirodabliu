@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Walter Monteiro  
 
-<!--
-**WalterMonteirodabliu/WalterMonteirodabliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação  
+💻 Desenvolvedor Backend (Java, Spring Boot)  
+🌱 Atualmente estudando Frontend (JavaScript, React)  
+📊 Experiência com SQL e Bancos de Dados  
+🚀 Buscando minha primeira oportunidade em tecnologia  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Backend: **Java, Spring Boot, SQL, PostgreSQL, MySQL**
+- Frontend: **HTML, CSS, JavaScript, React**
+- Outros: Git, GitHub, IntelliJ, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- 🍳 [ChefAI - Gerenciador de Receitas Inteligente](link_projeto)
+- 🤖 [Mordomo Virtual](link_projeto)
+- 🎧 [Controle de Fone por Gestos](link_projeto)
+
+📫 Entre em contato: [LinkedIn](seu_link) | [Email](mailto:seuemail@email.com)
