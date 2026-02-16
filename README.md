@@ -22,7 +22,7 @@
 🎓 Engenharia de Computação  
 💻 Desenvolvedor **Fullstack** com experiência em **Java (Spring Boot)**  
 🐍 Conhecimento em **Python aplicado a automação e Inteligência Artificial**  
-🤖 Entusiasta de **IA e tecnologias emergentes**, sempre explorando soluções criativas e inovadoras  
+🤖 Entusiasta de **IA, Machine Learning e tecnologias emergentes**, sempre explorando soluções criativas e inovadoras  
 🚀 Comprometido em transformar ideias em projetos práticos e de impacto! 
 
 ---
