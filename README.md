@@ -20,7 +20,7 @@
 ## 👨‍💻 Sobre mim  
 
 🎓 Engenharia de Computação  
-💻 Desenvolvedor **IA & Machine Learning*   
+💻 Desenvolvedor **IA & Machine Learning**   
 🐍 Conhecimento em **Python aplicado a automação e Inteligência Artificial**  
 🤖 Entusiasta de **IA, Machine Learning e tecnologias emergentes**, sempre explorando soluções criativas e inovadoras  
 🚀 Comprometido em transformar ideias em projetos práticos e de impacto! 
